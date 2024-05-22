@@ -1,4 +1,4 @@
-##Hello 
+Hello 
 
 This is my little python projet and it is finally finished as I want to. 
 Its little game where you have to find a treasure. 
